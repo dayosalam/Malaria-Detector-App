@@ -1,4 +1,4 @@
-## CAT VS DOG CLASSIFIER 🐱🐶
+## Malaria Detector
 
 This is a flask app which predicts whether the given image belongs to cat category or dog category. I have used the concept of transfer learning in this project. I used the pre-trained [VGG-16 model architecture](https://neurohive.io/en/popular-networks/vgg16/) which was trained with ImageNet dataset. I trained this model (by freezing the in-between convolutional layers having previously trained weights) on [Cat-vs-Dog dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition) from Kaggle competition. I am able to achieve around 92% accuracy on the validation dataset.
 
