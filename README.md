@@ -14,3 +14,4 @@ Upload page
 
 Prediction Page
 ![prediction](https://github.com/sudeeep885/Cat-vs-Dog-Flask-web-app/blob/master/screenshots/prediction.jpg?raw=true)
+
