@@ -5,13 +5,13 @@ This is a flask app which predicts whether the given image(blood sample) contain
 ---
 ### A Glimpse of the app 😎
 Homepage
-![home](https://github.com/sudeeep885/Cat-vs-Dog-Flask-web-app/blob/master/screenshots/home.jpg?raw=true)
+![home](https://github.com/dayosalam/stuff-done/blob/main/Malria-Detector/Screenshot%20from%20app/1.png)
 <br>
 
 Upload page
-![upload](https://github.com/sudeeep885/Cat-vs-Dog-Flask-web-app/blob/master/screenshots/upload.jpg?raw=true)
+![upload](https://github.com/dayosalam/stuff-done/blob/main/Malria-Detector/Screenshot%20from%20app/2.png)
 <br>
 
 Prediction Page
-![prediction](https://github.com/sudeeep885/Cat-vs-Dog-Flask-web-app/blob/master/screenshots/prediction.jpg?raw=true)
+![prediction](https://github.com/dayosalam/stuff-done/blob/main/Malria-Detector/Screenshot%20from%20app/3.png)
 
